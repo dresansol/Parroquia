@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Pagina_Principal.master.cs" Inherits="Pagina_Principal" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-74909943-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    
+    <title>Parroquia Nuestra Señora De La Laguna</title>
+    <meta http-equiv="Content-Type" content="text/html; ISO-8859-1"/>
+    <meta name="description" content="Parroquia Nuestra Señora De La Laguna - Diocesis de Fontibon"/>
+    <meta name="keywords" content="parroquia nuestra señora de la laguna,parroquia,parroquia la laguna,iglesia la laguna,fontibon,parroquia fontibon"/>
+    <meta name="Resource-type" content="Document"/>
+    <meta name="robots" content="ALL"/>
+    <link href='http://www.parroquialalaguna.com/fav_icon2.png' rel='shortcut icon' type='image/png'/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    
+    <form id="form1" runat="server">
+        <link href="css/Pie_de_Paina.css" rel="stylesheet" />
+        
+        <link href="css/Menu.css" rel="stylesheet" />
+    <div class="container">
+        
+    <div class="contairner_menu">
+        <div id="contenedor">
+            <a href="Home.aspx"><img src="Img/Logo.png"/></a>
+            <ul id="menu_ul">
+                
+                <li><a id="Home" runat="server" href="Home.aspx">Inicio</a></li>
+                <li><a id="Servicios" runat="server" href="#">Servicios</a>
+                    <ul class="children">
+                        <li><a href="Bautizos.aspx">Bautizos</a></li>
+                        <li><a href="Primera_Comunion.aspx">Primera Comunión</a></li>
+                        <li><a href="Confirmacion.aspx">Confirmación</a></li>
+                        <li><a href="Matrimonios.aspx">Matrimonios</a></li>
+                        <li><a href="Costos.aspx">Costos</a></li>
+                    </ul>
+                </li>
+                <!--<li>
+                    <a href="Acerca_de.aspx">Acerca de</a>
+                </li>-->
+                <!--<li><a id="Noticias" runat="server" href="Noticias_y_Eventos.aspx">Noticias y Eventos</a></li>-->
+                <li><a id="A1" runat="server" href="https://www.facebook.com/pg/parroquialalaguna/photos/?tab=albums" target="_blank">Noticias y Eventos</a></li>
+                <li><a id="Grupos_Pastorales" runat="server" href="#">Grupos Pastorales</a>
+                    <ul class="children">
+                        <li><a href="#">Catequesis</a></li>
+                        <li><a href="#">Grupos de Oración</a></li>
+                        <li><a href="#">Ministerios de la eucaristia</a></li>
+                        <li><a href="Ministerios_Musicales.aspx">Ministerios Musicales</a></li>
+                        <li><a href="#">Pastorales para la comunidad</a></li>
+                        <li><a href="Intranet/Login.aspx" target="_blank">Ingreso Usuarios</a></li>
+                    </ul>
+                </li>
+                <li><a id="Contacto" runat="server" href="Contacto.aspx">Contacto</a></li>
+                <!--<li><a href="Inicio_de_sesion.aspx" target="_blank">Ingresar</a></li>-->
+            </ul>
+        </div>
+    </div>
+        </div>
+
+
+
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+
+
+        <div class="cuerpo">
+            <div class="container">
+                <div class="tabla">
+                    <h2>Contáctenos</h2>
+                    <br />
+                    <b>Dirección:</b> Cra 102 No. 16D - 01 Fontibón - Bogotá<br />
+                    <b>Teléfono:</b> +57 1 3047173<br />
+                    <b>Correo:</b> contactenos@parroquialalaguna.com<br />
+                </div>
+                <div class="tabla2">
+                    <h2>Síguenos</h2>
+                    <br />
+                    <link rel="stylesheet" type="text/css" href="css/Bootstrap.css" />
+                    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"/>
+
+                    <link href="css/style_redes.css" rel="stylesheet" />
+
+                    <div class="caja-redes">
+                        <a href="https://twitter.com/LagunaParroquia" target="_blank" class="icon-boton twitter"><i class="fa fa-twitter" aria-hidden="true"></i><span></span></a>
+                        <a href="https://www.youtube.com/c/parroquialalagunafontibon" target="_blank" class="icon-boton youtube"><i class="fa fa-youtube" aria-hidden="true"></i><span></span></a>
+                        <a href="https://www.facebook.com/parroquialalaguna/" class="icon-boton facebook" target="_blank"><i class="fa fa-facebook"></i><span></span></a>
+                    </div>
+                </div>
+        <div class="tabla">
+                    <h2>Número de Visitas</h2><br />
+                    <img src="http://www.easycounter.com/counter.php?dresansol"
+                    border="0" alt="Contador"/>
+                    </div>     
+           </div>
+        </div>
+         
+    </form>
+    
+    
+   </body>
+</html>

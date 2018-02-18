@@ -1,0 +1,75 @@
+.cuerpo{
+width: 100%;
+height: auto;
+float: left;
+font: sans-serif normal 36px Georgia, "sans-serif", Times, serif;
+    color: #9c9c9c;
+   
+background-color: #2a2a2a;
+border-top-width: 5px;
+border-top-style:solid;
+border-top-color: #108a86;
+margin-bottom: 5px;
+padding-bottom: 5px;
+
+}
+.tabla{
+	float: left;
+width: 32%;
+height: 180px;
+	text-align: left;
+	color: #fff;
+	font-weight: 300;
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: 12px;
+	border-bottom-width: 5px;
+	border-bottom-style: double;
+	border-bottom-color: #108a86;
+margin-left: 2px;
+color: #9c9c9c;
+
+}
+.tabla h2{
+	font-size: 20px;
+	width: 180px;
+	border-bottom-color: #b5b5b5;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-height: 50px;
+}
+.tabla2{
+	float: left;
+width: 35%;
+height: 180px;
+	text-align: left;
+	color: #fff;
+	font-weight: 300;
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: 12px;
+border-bottom-width: 5px;
+	border-bottom-style: double;
+	border-bottom-color: #108a86;
+margin-left: 2px;	
+color: #9c9c9c;
+vertical-align:middle;
+}
+.tabla2 h2{
+	font-size: 20px;
+	width: 100px;
+	border-bottom-color: #b5b5b5;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-height: 50px;
+    vertical-align:top;
+}
+.tabla:hover{
+	border-bottom-color: #15b8b2;
+}
+.tabla2:hover{
+	border-bottom-color: #15b8b2;
+}
+.cuerpo:hover{
+	border-top-color:#15b8b2;
+}

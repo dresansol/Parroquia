@@ -1,0 +1,13 @@
+.titulo_album{
+	font-size: 2em;
+	color: black;
+	font-style: bold;
+	text-decoration: underline;
+	font-family: sans-serif;
+}
+.cuerpo_album{
+	width: 49%;
+	height: auto;
+	float: left;
+	margin-left: 1%;
+}
