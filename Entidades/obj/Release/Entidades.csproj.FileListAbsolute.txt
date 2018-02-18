@@ -1,0 +1,5 @@
+C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\bin\Release\Entidades.dll
+C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\bin\Release\Entidades.pdb
+C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\obj\Release\Entidades.dll
+C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\obj\Release\Entidades.pdb
+C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
