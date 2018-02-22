@@ -18,7 +18,7 @@
     <div class="conten">
 
         <div class="tab">
-			<img src="img/Slider_Principal/Miercoles_De_Ceniza.jpg"/>
+			<img src="img/Slider_Principal/Cuaresma.jpg"/>
 			<!--<div class="text"; style="margin-left:52%; margin-bottom:28%; font-style:italic; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
                 <h2 style="color:white; text-align:right; ">
                     Te presentamos la nueva imagen de nuestro Templo Parroquial

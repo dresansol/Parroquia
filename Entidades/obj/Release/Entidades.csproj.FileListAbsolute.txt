@@ -3,3 +3,8 @@ C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\bin\Release\Entidad
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\obj\Release\Entidades.dll
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\obj\Release\Entidades.pdb
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\fsoler\Documents\GitHub\Parroquia\Entidades\bin\Release\Entidades.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Entidades\bin\Release\Entidades.pdb
+C:\Users\fsoler\Documents\GitHub\Parroquia\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\fsoler\Documents\GitHub\Parroquia\Entidades\obj\Release\Entidades.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Entidades\obj\Release\Entidades.pdb

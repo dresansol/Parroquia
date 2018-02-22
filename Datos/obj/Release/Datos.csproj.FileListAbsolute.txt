@@ -5,3 +5,10 @@ C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Datos\bin\Release\Entidades.p
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Datos\obj\Release\Datos.dll
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Datos\obj\Release\Datos.pdb
+C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\bin\Release\Datos.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\bin\Release\Datos.pdb
+C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\bin\Release\Entidades.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\bin\Release\Entidades.pdb
+C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\obj\Release\Datos.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\obj\Release\Datos.pdb
