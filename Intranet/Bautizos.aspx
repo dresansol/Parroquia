@@ -70,67 +70,67 @@ SU VALOR ES DE $10.000.
                     <tr>
                         <td>Enero
                         </td>
-                        <td>28
+                        <td>27
                         </td>
                     </tr>
                     <tr>
                         <td>Febrero
                         </td>
-                        <td>11 y 25
+                        <td>10 y 24
                         </td>
                     </tr>
                     <tr>
                         <td>Marzo
                         </td>
-                        <td>11 y 25
+                        <td>10 y 24
                         </td>
                     </tr>
                     <tr>
                         <td>Abril
                         </td>
-                        <td>8 y 22
+                        <td>7 y 21
                         </td>
                     </tr>
                     <tr>
                         <td>Mayo
                         </td>
-                        <td>13 y 27
+                        <td>12 y 26
                         </td>
                     </tr>
                     <tr>
                         <td>Junio
                         </td>
-                        <td>10 y 24
+                        <td>9 y 23
                         </td>
                     </tr>
                     <tr>
                         <td>Julio
                         </td>
-                        <td>8 y 22
+                        <td>7 y 21
                         </td>
                     </tr>
                     <tr>
                         <td>Agosto
                         </td>
-                        <td>12 y 26
+                        <td>11 y 25
                         </td>
                     </tr>
                     <tr>
                         <td>Septiembre
                         </td>
-                        <td>9 y 23
+                        <td>8 y 22
                         </td>
                     </tr>
                     <tr>
                         <td>Octubre
                         </td>
-                        <td>14 y 28
+                        <td>13 y 27
                         </td>
                     </tr>
                     <tr>
                         <td>Noviembre
                         </td>
-                        <td>11 y 25
+                        <td>10 y 24
                         </td>
                     </tr>
                     <tr>

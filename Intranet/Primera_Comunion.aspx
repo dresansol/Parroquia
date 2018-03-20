@@ -37,7 +37,7 @@
                 <li class="li">• Asistir a la Eucaristía del Domingo 12:00 m. luego de la catequesis</li>
                 <li class="li">• Los horarios de las clases serán los Domingos desde las 10:00 am y se culminará la catequesis con la Eucaristia del Medio Dia</li>
         </ul>
-
+        <!--
         <div>
             <hr />
             <h2>Inscripciones para el sacramento de la Primera Comunión</h2>
@@ -315,7 +315,7 @@
                 });
             </script>
 
-        </div>
+        </div>-->
     </div>
 
 </div>

@@ -18,6 +18,18 @@
     <div class="conten">
 
         <div class="tab">
+			<img src="img/Slider_Principal/Semana Santa.jpg"/>
+			<div class="text" style="text-align:left; font-size:20px">
+                <span style="color:white">
+                    Descarga el cronograma de actividades de nuestra Semana Santa 2018 en formato
+                    <a style="font-weight:normal" href="Doc/Programa%20de%20Semana%20Santa%202018.pdf" target="_blank">PDF</a>
+                    o
+                    <a style="font-weight:normal" href="Doc/Programa%20de%20Semana%20Santa%202018.jpg" target="_blank">Imagen</a>
+                </span>
+			</div>
+		</div>
+
+        <div class="tab">
 			<img src="img/Slider_Principal/Cuaresma.jpg"/>
 			<!--<div class="text"; style="margin-left:52%; margin-bottom:28%; font-style:italic; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
                 <h2 style="color:white; text-align:right; ">
@@ -100,7 +112,8 @@
 
             <h5>Cuaresma y Semana Santa 2018</h5><br />
  
-            <p> Iniciamos una época de reflexión y preparación para la Semana Mayor. En la parte inferior de nuestra página encontraras el calendario completo de actividades que tendremos en nuestra parroquia.
+            <p> Iniciamos una época de reflexión y preparación para la Semana Mayor. Ya puedes descargar el programa de actividades que tendremos para esta Semana Santa en el banner superior. Recuerda seguirnos en nuestras redes y seguir las transmisiones en vivo de todas las celebraciones en nuestra parroquia.
+                Estaremos transmitiendo por nuestra pagina web y por la Fan Page en Facebook.
             </p><br />
 
             <!--<h5>Inauguración de Obras</h5><br />

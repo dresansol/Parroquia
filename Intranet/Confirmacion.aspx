@@ -39,7 +39,7 @@
         </ul>
             
             <hr />
-        <div>
+        <!--<div>
 
             <h2>Inscripciones para el sacramento de la Confirmación</h2>
             <hr />
@@ -315,7 +315,7 @@
                 });
             </script>
 
-        </div>
+        </div>-->
     </div>
 </div>
 

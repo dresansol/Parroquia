@@ -7,3 +7,12 @@ C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Negocios\bin\Debug\Entidades.
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Negocios\obj\Debug\Negocios.dll
 C:\Users\fsoler\Documents\GitHub\ParroquiaLaLaguna\Negocios\obj\Debug\Negocios.pdb
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\bin\Debug\Negocios.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\bin\Debug\Negocios.pdb
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\bin\Debug\Datos.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\bin\Debug\Entidades.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\bin\Debug\Datos.pdb
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\bin\Debug\Entidades.pdb
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\obj\Debug\Negocios.dll
+C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\obj\Debug\Negocios.pdb
