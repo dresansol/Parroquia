@@ -17,7 +17,7 @@
 
     <div class="conten">
 
-        <div class="tab">
+        <!--<div class="tab">
 			<img src="img/Slider_Principal/Semana Santa.jpg"/>
 			<div class="text" style="text-align:left; font-size:20px">
                 <span style="color:white">
@@ -35,8 +35,8 @@
                 <h2 style="color:white; text-align:right; ">
                     Te presentamos la nueva imagen de nuestro Templo Parroquial
                 </h2>
-			</div>-->
-		</div>
+			</div>
+		</div>-->
 
         <div class="tab">
 			<img src="img/Slider_Principal/SliderTemplo.jpg"/>
@@ -104,17 +104,17 @@
         <div class="horarios-fila">
             <div class="noticias">
 
-            <!--<h5>Redes Sociales</h5><br />
+            <h5>Agradecimiento Semana Santa</h5><br />
  
-            <p> Te invitamos a seguirnos en nuestras redes sociales. En ellas encontraras todo el contenido audiovisual de los eventos que hemos tenido en la Parroquia. Puedes encontrar en la parte de abajo los botones que te 
+            <p> Les agradecemos a todas la personas que siguieron todas las transmisiones de los eventos de nuestra parroquia. Te invitamos a seguirnos en nuestras redes sociales. En ellas encontraras todo el contenido audiovisual de los eventos que hemos tenido en la Parroquia. Puedes encontrar en la parte de abajo los botones que te 
                 redirigiran a cada una de ellas.
-            </p><br />-->
+            </p><br />
 
-            <h5>Cuaresma y Semana Santa 2018</h5><br />
+            <!--<h5>Cuaresma y Semana Santa 2018</h5><br />
  
             <p> Iniciamos una época de reflexión y preparación para la Semana Mayor. Ya puedes descargar el programa de actividades que tendremos para esta Semana Santa en el banner superior. Recuerda seguirnos en nuestras redes y seguir las transmisiones en vivo de todas las celebraciones en nuestra parroquia.
                 Estaremos transmitiendo por nuestra pagina web y por la Fan Page en Facebook.
-            </p><br />
+            </p><br />-->
 
             <!--<h5>Inauguración de Obras</h5><br />
  
