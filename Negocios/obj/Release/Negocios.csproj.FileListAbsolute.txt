@@ -16,3 +16,13 @@ C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\bin\Release\Entidades.pdb
 C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
 C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\obj\Release\Negocios.dll
 C:\Users\fsoler\Documents\GitHub\Parroquia\Negocios\obj\Release\Negocios.pdb
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\bin\Release\Negocios.dll
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\bin\Release\Negocios.pdb
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\bin\Release\Datos.dll
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\bin\Release\Entidades.dll
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\bin\Release\Datos.pdb
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\bin\Release\Entidades.pdb
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\obj\Release\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\obj\Release\Negocios.dll
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Negocios\obj\Release\Negocios.pdb

@@ -12,3 +12,11 @@ C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\bin\Debug\Entidades.pdb
 C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\obj\Debug\Datos.dll
 C:\Users\fsoler\Documents\GitHub\Parroquia\Datos\obj\Debug\Datos.pdb
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Datos\bin\Debug\Datos.dll
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Datos\bin\Debug\Datos.pdb
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Datos\bin\Debug\Entidades.dll
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Datos\bin\Debug\Entidades.pdb
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Datos\obj\Debug\Datos.dll
+C:\Users\User\OneDrive\Repositorio_Web_Parroquia\Parroquia\Datos\obj\Debug\Datos.pdb

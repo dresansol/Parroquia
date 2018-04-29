@@ -152,7 +152,7 @@
         <h5>Sigue la transmision en vivo</h5><br />
             <p style="margin:0 10%  0 10%">Sigue la transmision en vivo de todos los eventos de nuestra parroquia</p><br />
         <!--<iframe src="http://www.ustream.tv/embed/22189492?html5ui&showtitle=false" style="border: 0 none transparent;"  webkitallowfullscreen allowfullscreen frameborder="no" width="auto" height="auto"></iframe><br />-->
-           <iframe src="https://www.youtube.com/embed/E-VhsyEtojk?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+           <iframe src="https://www.youtube.com/embed/bgwsHvYSuXc?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>        
         <!--<div class="horarios-columna" style="padding:2px 2px 2px 2px">
         <h5>La parroquia es noticia</h5><br />
