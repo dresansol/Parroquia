@@ -1,0 +1,6 @@
+2020-05-07T22:53:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded en C:\Inetpub\vhosts\parroquialalaguna.com\httpdocs\wp-content\plugins\google-site-kit\includes\Core\Authentication\Verification_File.php en la línea 22
+
+2020-05-07T22:53:58+00:00 CRITICAL Maximum execution time of 60 seconds exceeded en C:\Inetpub\vhosts\parroquialalaguna.com\httpdocs\wp-includes\wp-db.php en la línea 2024
+
+2020-05-07T22:54:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded en C:\Inetpub\vhosts\parroquialalaguna.com\httpdocs\wp-includes\wp-db.php en la línea 2024
+
